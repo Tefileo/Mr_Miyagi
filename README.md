@@ -23,4 +23,4 @@ anything else you say:
 - Git
 - Github
 - MarkDown Files
-- Variables, Datatypes, Control Flow, Loops, Iterators, DRY, other
+- DRY
