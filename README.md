@@ -16,11 +16,11 @@ anything else you say:
 
 
 # Learning Outcome
-While loops
-If else statements
-User input
-Comparison Operators
-Git
-Github
-MarkDown Files
-Variables, Datatypes, Control Flow, Loops, Iterators, DRY, other
+- While loops
+- If else statements
+- User input
+- Comparison Operators
+- Git
+- Github
+- MarkDown Files
+- Variables, Datatypes, Control Flow, Loops, Iterators, DRY, other
